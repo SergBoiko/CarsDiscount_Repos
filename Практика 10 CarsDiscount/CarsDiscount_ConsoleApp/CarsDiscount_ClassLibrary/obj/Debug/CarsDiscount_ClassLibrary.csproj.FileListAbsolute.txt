@@ -1,0 +1,6 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\bin\Debug\CarsDiscount_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\bin\Debug\CarsDiscount_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\obj\Debug\CarsDiscount_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\obj\Debug\CarsDiscount_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\obj\Debug\CarsDiscount_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Практика 10 CarsDiscount\CarsDiscount_ConsoleApp\CarsDiscount_ClassLibrary\obj\Debug\CarsDiscount_ClassLibrary.pdb
